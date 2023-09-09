@@ -1,7 +1,7 @@
 <table style="border-collapse: collapse; width: 100%;"> <!-- Feito por Dinah. -->
     <tr>
         <td width="30%" style="border: none; padding-right: 10px;">
-            <img src="https://github.com/bitcodes-ads/bitcodes-ads.github.io/blob/main/bitcode.jpg?raw=true" width="100%">
+            <img src="https://user-images.githubusercontent.com/143650650/266758636-d77200a8-e377-45e1-a491-cb82ed5e5123.jpg" width="100%">
         </td>
         <td style="border: none;">
             <h1>Bit Codes</h1>
