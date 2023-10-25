@@ -19,6 +19,7 @@
             <p style="font-weight: bold;">Integrantes:</p>
             <ul style="list-style-type: disc; padding-left: 20px;"> <!-- Feito por Lais -->
                 <li>Dinah Barreto</li>
+                <li>Francisco Anacleto</li>
                 <li>Lais Milena</li>
                 <li>Lucas Silva</li>
                 <li>Renato Oliveira</li>
